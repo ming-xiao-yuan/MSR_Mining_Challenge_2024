@@ -1,0 +1,8 @@
+env
+__pycache__
+venv/
+.env
+snapshots
+bugs.csv
+feature_requests.csv
+theoretical_questions.csv
